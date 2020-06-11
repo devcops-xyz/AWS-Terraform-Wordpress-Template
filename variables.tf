@@ -11,5 +11,5 @@ variable "example" {
 }
 
 variable "key_name" {
-  default = "Azubi-Khaled"
+  default = "KeyName"
 }
