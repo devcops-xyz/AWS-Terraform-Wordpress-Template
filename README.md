@@ -1,3 +1,3 @@
 # Terraform-Wordpress-Template
 
-change the region and the key name in (variables.tf)
+backend.tf includes the name of the S3 bucket, where the tfstate file would be stored.
